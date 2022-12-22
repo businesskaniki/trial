@@ -8,7 +8,7 @@ const Projects = () => {
     <div className='px-24 py-6 border-t-2 border-gray-700'>
         <h1 className='font-serif text-5xl pt-6 uppercase'><span className='text-red-800 text-3xl'>03.</span> Some Things I’ve Built</h1>
         <div className='py-6 flex justify-center gap-8'>
-          <div className='w-60 bg-gray-700 shadow-lg rounded-lg'>
+          <div className='w-60 bg-gray-700 shadow-lg rounded-lg card'>
               <div className='flex justify-between items-center p-3'>
                <FaFolder className='text-green-700 text-xl'/>
                <div className='flex items-center gap-3'>
@@ -29,7 +29,7 @@ const Projects = () => {
                   <small>Bootstrap</small>
               </div>
           </div>
-          <div className='w-60 bg-gray-700 shadow-lg rounded-lg'>
+          <div className='w-60 bg-gray-700 shadow-lg rounded-lg card'>
               <div className='flex justify-between items-center p-3'>
                <FaFolder className='text-green-700 text-xl'/>
                <div className='flex items-center gap-3'>
@@ -50,7 +50,7 @@ const Projects = () => {
                   <small>Bootstrap</small>
               </div>
           </div>
-          <div className='w-60 bg-gray-700 shadow-lg rounded-lg'>
+          <div className='w-60 bg-gray-700 shadow-lg rounded-lg card'>
               <div className='flex justify-between items-center p-3'>
                <FaFolder className='text-green-700 text-xl'/>
                <div className='flex items-center gap-3'>
@@ -71,7 +71,7 @@ const Projects = () => {
                   <small>Bootstrap</small>
               </div>
           </div>
-          <div className='w-60 bg-gray-700 shadow-lg rounded-lg'>
+          <div className='w-60 bg-gray-700 shadow-lg rounded-lg card'>
               <div className='flex justify-between items-center p-3'>
                <FaFolder className='text-green-700 text-xl'/>
                <div className='flex items-center gap-3'>
@@ -92,7 +92,7 @@ const Projects = () => {
                   <small>Bootstrap</small>
               </div>
           </div>
-          <div className='w-60 bg-gray-700 shadow-lg rounded-lg'>
+          <div className='w-60 bg-gray-700 shadow-lg rounded-lg card'>
               <div className='flex justify-between items-center p-3'>
                <FaFolder className='text-green-700 text-xl'/>
                <div className='flex items-center gap-3'>

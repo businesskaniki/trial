@@ -14,7 +14,7 @@ const Landing = () => {
   return (
     <div className='bg-gray-900 text-white px-16 py-12'>
       <div className='h-80 flex justify-between items-center'>
-       <div className='p-16'>
+       <div className='p-8'>
         <h2 className='text-red-900'>{divstart}</h2>
           <div className='flex px-8 flex-col'>
             <span>
@@ -31,7 +31,7 @@ const Landing = () => {
           </div>
         <h2 className='text-red-900'>{divend}</h2>
        </div>
-          <img src={image1} alt="background"  className='p-16'/>
+          <img src={image1} alt="background"  className='p-8 img'/>
       </div>
       <div className='h-80 flex justify-between items-center'>
           <img src={image2} alt="background" />
