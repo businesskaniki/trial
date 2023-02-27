@@ -1,6 +1,7 @@
 import React from 'react'
 import image1 from './images/boy.png'
 import image2 from './images/group.png'
+import './home.css'
 
 const Landing = () => {
   let divstart = "<div>"
